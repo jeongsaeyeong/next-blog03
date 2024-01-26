@@ -8,6 +8,8 @@ npm install next-auth
 npm install prisma
 npm install @prisma/client
 npm install @auth/prisma-adapter
+npm install react-quill
+npm install swr
 ```
 
 ```
